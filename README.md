@@ -3,19 +3,56 @@ Learning how to use SASS
 
 
 
-1.Setting up the environment
- -download ruby https://rubyinstaller.org/downloads/ and install if not downloaded already
- -in gitbash/cmd prompt use " gem install sass "  to install sass
- 
-2.Create Repository on GitHub
- -create repo on GH and initiate with a README.md and add a live link
- -clone the repo onto your local drive using " git clone (url goes here without brackets) "
- -create your folders " css img scss index.html " using cmds " mkdir css img scsss " and " touch index.html "
- -push changes to github " git push -u origin master "
+# Intro To SASS
 
-3.Open text editor
- -create html template
- -link css to html
- -run the cmd " sass --watch scss:css "
- 
- https://shantonwaldien.github.io/sass/
+SASS, an Introduction to it's functionality and application.
+
+SASS is a pre-processor, a scripting language that compiles into css, but adds the functionality of using variables and nesting code.
+
+## Setting up your workspace
+
+- Download and Install Ruby here 'https://rubyinstaller.org'
+- Open your terminal and launch the command 'gem install sass'
+- Create your base folder structure (css, scss)
+- Within your project folder, using terminal, launch the command 'sass --watch scss:css'
+
+## Live Link
+- https://shantonwaldien.github.io/sass/
+
+## Prevalent Technologies Used
+
+ - SASS
+ - CSS
+ - Ruby
+
+### Other Technologies Used
+
+Technologies and Tools Used:
+
+```
+Languages:
+
+- CSS
+- SASS
+- HTML
+
+```
+```
+Tools:
+
+- VS Code
+- GitBash
+- SASSmeister
+
+```
+
+### Changelog
+
+2018-10-09:
+- Base folders added
+- Readme Created
+- Live Link Created
+
+## Contributors
+
+Shanton Waldien - 2018
