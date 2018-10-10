@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAEA,IAAK;EACD,gBAAgB,ECDH,OAAO;EDGpB,OAAG;IACC,SAAS,ECDH,OAAO;EDIjB,MAAE;IACE,SAAS,ECJH,OAAO;IDKb,KAAK,ECRM,MAAM",
-"sources": ["../scss/partials/_base.scss","../scss/partials/_variables.scss"],
+"mappings": "AAEA,iBAAiB;AAEjB,CAAE;EACE,UAAU,EAAE,UAAU",
+"sources": ["../scss/partials/_base.scss"],
 "names": [],
 "file": "main.css"
 }

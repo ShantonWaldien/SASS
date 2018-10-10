@@ -1,14 +1,8 @@
 @import 'partials/variables';
 
-body {
-    background-color: $primary-color;
-    
-    h1 {
-        font-size: $font-size1;
-    } 
+/* Base Styles */
 
-    p {
-        font-size: $font-size2;
-        color: $secondary-color;
-    }
+* {
+    box-sizing: border-box;
 }
+
