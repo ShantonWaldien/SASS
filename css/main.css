@@ -171,7 +171,8 @@ header {
   border-bottom-color: #7e2e3c;
   font-family: 'Dancing Script', cursive; }
   .box ol {
-    text-decoration: none; }
+    text-decoration: none;
+    list-style-type: none; }
   .box li {
     text-decoration: none;
     color: black;
