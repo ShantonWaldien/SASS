@@ -105,6 +105,10 @@ header {
 .images:hover {
   opacity: 0.5; }
 
+.primary-content .resort1 {
+  background-image: url(../img/resort1.jpg);
+  background-size: cover; }
+
 .wildlife {
   margin-left: 15%;
   margin-right: 15%; }

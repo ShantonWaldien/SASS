@@ -74,6 +74,7 @@ header{
         padding-bottom: 30px;
         display: inline;
         height: 400px;
+        
     }
 
     &:hover {
@@ -82,6 +83,12 @@ header{
 }
 
 
+.primary-content {
+    .resort1 {
+        background-image: url(../img/resort1.jpg);
+        background-size: cover;
+    }
+}
 
 .wildlife {
 
