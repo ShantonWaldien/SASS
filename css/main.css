@@ -164,7 +164,8 @@ header {
     color: #7e2e3c; }
 
 .mtn {
-  width: 100%; }
+  width: 100%;
+  padding-top: 60px; }
 
 .box {
   border: 2px solid;
